@@ -1,0 +1,10 @@
+SHELL REFF CODE BOT
+
+CARA INSTALL: 
+-git clone https://github.com/yaelahaiz/shell
+-cd shell
+-node index.js
+
+PASTIKAN KALIAN SUDAH MEGEDIT REFF KALIAN DIBAGIAN INDEX.JS KOLOM 152
+
+SEMOGA BERMANFAAT
